@@ -1,0 +1,17 @@
+.dd{
+    font-style: italic, oblique;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-size: 100px;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-indent: 10px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.ddd:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-decoration: none;
+}
